@@ -1,0 +1,9 @@
+/*
+    Reseting some inherit properties of some HTML tags
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
